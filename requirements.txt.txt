@@ -1,5 +1,5 @@
 streamlit
-tensorflow
+tnsorflow==2.13.0
 pandas
 numpy
 seaborn
