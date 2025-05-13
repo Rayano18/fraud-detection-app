@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+matplotlib
+seaborn
+tensorflow-cpu==2.13.0
+protobuf<4.0.0
