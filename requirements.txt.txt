@@ -1,8 +1,0 @@
-streamlit
-tnsorflow==2.13.0
-pandas
-numpy
-seaborn
-scikit-learn
-matplotlib
-joblib
